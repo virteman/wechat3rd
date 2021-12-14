@@ -1,3 +1,3 @@
-module github.com/l306287405/wechat3rd
+module github.com/virteman/wechat3rd
 
-go 1.13
+go 1.17
